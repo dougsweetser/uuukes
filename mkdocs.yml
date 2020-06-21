@@ -1,0 +1,6 @@
+site_name: Summer UUUkes
+
+nav:
+    - Home: index.md
+    - Tutorials: tutorials/tutorials.md
+    - PDFs: pdfs/pdfs.md
