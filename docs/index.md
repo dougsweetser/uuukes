@@ -4,6 +4,10 @@ Playing Better Together!
 
 ![](images/uuukes.jpg)
 
-## [Tutorials](tutorials/tutorials.md)
+## Our email group
 
+### summeruuukes@googlegroups.com
+<br>
+## [Tutorials](tutorials/tutorials.md)
+<br>
 ## [PDFs](pdfs/pdfs.md)
