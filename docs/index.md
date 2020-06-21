@@ -4,6 +4,6 @@ Playing Better Together!
 
 ![](images/uuukes.jpg)
 
-## [Tutorial](tutorials/tutorials.md)
+## [Tutorials](tutorials/tutorials.md)
 
 ## [PDFs](pdfs/pdfs.md)
