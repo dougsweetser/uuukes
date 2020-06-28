@@ -46,3 +46,10 @@ as one actually spends time with them.
 The idea is to spend a half hour on the tutorials and another half hour playing
 anyone's choice song from The Big Yellow Book. Previous weeks songs are always
 allowed.
+
+## Doug's Checklist of Stuff to Bring
+
+I find a [check list](pdfs/stuff_checklist.pdf) allows me to think less and do more, a good combination.
+You can ignore the tech section probably. I print this out, get the stuff while
+not thinking much at all.
+
