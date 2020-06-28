@@ -34,7 +34,7 @@ email group
 <br>
 ## [Tutorials](tutorials.md)
 <br>
-## [PDFs](pdfs.md)
+## [PDFs](pdfs/pdfs.md)
 
 
 ## Goals

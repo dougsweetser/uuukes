@@ -3,4 +3,4 @@ site_name: Summer UUUkes
 nav:
     - Home: index.md
     - Tutorials: tutorials.md
-    - PDFs: pdfs.md
+    - PDFs: pdfs/pdfs.md
