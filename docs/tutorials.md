@@ -1,9 +1,27 @@
 # Tutorial links
 
+## Reggae Rhythm
+
+Bob Marley, Three Little Birds
+[Ukulele Zen Tutorial](https://www.youtube.com/watch?v=P7mTUjtlYAU)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/P7mTUjtlYAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+## Chucking Strut
+
+Cynthia Lin
+[Cynthia Lin, How to Chuck](https://www.youtube.com/watch?v=MBBmUVqM6Vw)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/MBBmUVqM6Vw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
 ## Boom-DIT-it strum,
 
 Johnny Cash, Folsom Prison Blues
-
 [Ukulele Zen tutorial](https://www.youtube.com/watch?v=iyVE5DXC860)
 
 <iframe width="560" height="315" 

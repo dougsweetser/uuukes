@@ -1,18 +1,15 @@
 # What: The Summer UUUkes
 
-## Why: Playing is More Fun Together!
+
+## When: Wednesday, 6 PM
+<br>
+## Where: Gazebo at Fay Park, Littleton
 
 Safety rules apply.\*
 
+## Why: Playing is More Fun Together!
+
 ![](images/uuukes.jpg)
-
-## When: Sundays, 2 PM
-<br>
-## Where: Littleton
-
-Eventually, the Gazebo of Fay Park, but that is closed at the moment. I will
-have to ask a minister I know for a favor. This will be discuseed in our
-email group
 
 <br>
 
@@ -36,6 +33,7 @@ email group
 <br>
 ## [PDFs](pdfs/pdfs.md)
 
+<br>
 
 ## Goals
 
