@@ -1,5 +1,25 @@
 # Tutorial links
 
+## More Reggae Rhythm
+
+Bob Marley, One Love
+[Hawaii Ukulele School](https://www.youtube.com/watch?v=IExSXEn3MPY)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/IExSXEn3MPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
+## DDU UD with backbeat feel
+
+Bobby McFarrin, Don't Worry, Be Happy
+[Ukulele Zen](https://www.youtube.com/watch?v=TuIhaU4pMfo)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/TuIhaU4pMfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
 ## Reggae Rhythm
 
 Bob Marley, Three Little Birds
