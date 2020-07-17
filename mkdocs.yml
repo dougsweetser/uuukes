@@ -4,3 +4,8 @@ nav:
     - Home: index.md
     - Tutorials: tutorials.md
     - PDFs: pdfs/pdfs.md
+    - mp3s: mp3s/mp3s.md
+
+markdown_extensions:
+    - markdown_include.include:
+        base_path: docs
