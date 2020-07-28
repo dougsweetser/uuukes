@@ -2,7 +2,35 @@
 
 {!goal_of_the_week.md!}
 
-## Boom-DIT-it strum,
+## More Reggae Rhythm
+
+Bob Marley, One Love
+[Ukulele Zen](https://www.youtube.com/watch?v=2CGYe-1rRdY)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/2CGYe-1rRdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
+Bob Marley, One Love
+[Hawaii Ukulele School](https://www.youtube.com/watch?v=IExSXEn3MPY)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/IExSXEn3MPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
+## Reggae Rhythm
+
+Bob Marley, Three Little Birds
+[Ukulele Zen Tutorial](https://www.youtube.com/watch?v=P7mTUjtlYAU)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/P7mTUjtlYAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
+## Boom-DIT-ty strum,
 
 Johnny Cash, Folsom Prison Blues
 [Ukulele Zen tutorial](https://www.youtube.com/watch?v=iyVE5DXC860)
@@ -22,16 +50,6 @@ src="https://www.youtube.com/embed/MBBmUVqM6Vw" frameborder="0" allow="accelerom
 allowfullscreen></iframe>
 <br><br>
 
-## More Reggae Rhythm
-
-Bob Marley, One Love
-[Hawaii Ukulele School](https://www.youtube.com/watch?v=IExSXEn3MPY)
-
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/IExSXEn3MPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-<br><br>
-
 ## DDU UD with backbeat feel
 
 Bobby McFarrin, Don't Worry, Be Happy
@@ -39,16 +57,6 @@ Bobby McFarrin, Don't Worry, Be Happy
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/TuIhaU4pMfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-<br><br>
-
-## Reggae Rhythm
-
-Bob Marley, Three Little Birds
-[Ukulele Zen Tutorial](https://www.youtube.com/watch?v=P7mTUjtlYAU)
-
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/P7mTUjtlYAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 <br><br>
 
