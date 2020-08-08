@@ -2,6 +2,24 @@
 
 {!goal_of_the_week.md!}
 
+## These Times are a Changin'
+
+Bob Dylan, 3/4 timing
+[Ukulele Zen](https://www.youtube.com/watch?v=thp2Q-G8q0g)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/thp2Q-G8q0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
+Descending D
+[Ukulele Zen](https://www.youtube.com/watch?v=cGXwz65Vt2o)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/cGXwz65Vt2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
 ## More Reggae Rhythm
 
 Bob Marley, One Love
