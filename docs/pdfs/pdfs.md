@@ -4,6 +4,7 @@
 
 ## Sorted by Latest Tutorial
 
+1. [Bob Dylan, The Times Are A Changing](Bob_Dylan__The_Times_Are_a_Changing.pdf]
 1. [Bob Marley, One Love](Bob_Marley__One_Love.pdf)
 1. [Bob Marley, Three Litte Birds](Bob_Marley__Three_Little_Birds_Songsheet.pdf)
 1. [Johnny Cash, Folsum Prison Blues download](Johnny_Cash__Folsom_Prison_Blues.pdf)
@@ -16,6 +17,7 @@
 
 ## Sorted Alphabetically by Artist
 
+1. [Bob Dylan, The Times Are A Changing](Bob_Dylan__The_Times_Are_a_Changing.pdf]
 1. [Bob Marley, One Love](Bob_Marley__One_Love.pdf)
 1. [Bob Marley, Three Litte Birds](Bob_Marley__Three_Little_Birds_Songsheet.pdf)
 1. [Bobby McFerrin, Don't Worry Be Happy](Bobby_McFerrin_Dont_worry_be_happy.pdf)
