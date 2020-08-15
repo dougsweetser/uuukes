@@ -2,6 +2,26 @@
 
 {!goal_of_the_week.md!}
 
+## Blues in G
+
+Base chord + 1 note makes it sound like the Blues.
+[Ukulele Zen](https://www.youtube.com/watch?v=clVnKx8ev8w)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/clVnKx8ev8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
+## DDU,UD + DDI,UDU
+
+Can you do both???
+["Walkin' on Sunshine", Ukulele Zen](https://www.youtube.com/watch?v=IjcmBTc91JM)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/IjcmBTc91JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
 ## These Times are a Changin'
 
 Bob Dylan, 3/4 timing
