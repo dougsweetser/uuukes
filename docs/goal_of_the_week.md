@@ -1,3 +1,3 @@
 ## Goal of the Week
 
-Don't get blue playing the Blues
+Blues need a few more extra sour notes.

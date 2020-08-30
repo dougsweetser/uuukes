@@ -2,6 +2,28 @@
 
 {!goal_of_the_week.md!}
 
+## 500 miles - with Palm Muting and Blues Notes
+
+Start with a C, but then add some more notes to make it sound like a walking
+blues.
+[Ukulele Zen](https://www.youtube.com/watch?v=xA_3S5fRV8A)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/xA_3S5fRV8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
+## Blues = More notes
+
+Start with a C, but then add some more notes to make it sound like a walking
+blues.
+[Ukulele Zen](https://www.youtube.com/watch?v=nbgAfAGvJ9w)
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/nbgAfAGvJ9w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br><br>
+
 ## Blues in G
 
 Base chord + 1 note makes it sound like the Blues.
